@@ -24,7 +24,7 @@ This is a repository of the study "neural network acceleration". The goal of thi
 	
 ## Presentation with Video
 ### Week1: Introduction (September 09, 2020)
-**GPipe: Efficient Training of Giant Neural Networks using Pipeline Parallelism**
+**Integrating NVIDIA Deep Learning Accelerator (NVDLA) with RISC-V SoC on FireSim**
 
 	Presenter: 
 	PPT: 
