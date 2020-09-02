@@ -1,5 +1,5 @@
 ## Neural Network Acceleration Study Season #3
-This is a repository of the study "neural network acceleration". The goal of this study is to understand the acceleration of nerual networks on various devices. The topic of acceleration includes neural acceleration (Such as inference on `CPU`, `GPU`, `NPU`, `ASIC`, `FPGA`,`NDP`), neural accelerator, and designing lightweight neural network. Our materials are open to this github and youtube. This study is supported by Facebook community, "AI Robitcs Korea".
+This is a repository of the study "neural network acceleration". The goal of this study is to understand the acceleration of nerual networks on various devices. The topic of acceleration includes neural acceleration (such as inference on `CPU`, `GPU`, `NPU`, `ASIC`, `FPGA`,`NDP`), neural accelerator (`RTL`, `HLS`), and designing lightweight neural network (`Quantization`, `Pruning`, etc).Our materials are open to this github and youtube. This study is supported by Facebook community, "AI Robitcs Korea".
 
 #### CPU/GPU, NPU, and distributed computing
 - Fast acceleration of inference/training on general processor (CPU/GPU)
