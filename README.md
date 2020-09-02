@@ -38,4 +38,4 @@ This is a repository of the study "neural network acceleration". The goal of thi
 ## Contributors
 **Main Contributor**: Constant Park (sonicstage12@naver.com)
 
-**Presenters**: Constant Park (sonicstage12@naver.com), Jeongah-Shin (jeongah.arie@gmail.com), 김용우 (yongwoo.kim@smu.ac.kr), 강준구 (gjk6626@gmail.com), 이재민 (leejaymin@etri.re.kr), 금나현 (nayounkeum@gmail.com), 김영범 (eddy979793@gmail.com)
+**Presenters**: Constant Park (sonicstage12@naver.com), Jeongah-Shin (jeongah.arie@gmail.com), 김용우 (yongwoo.kim@smu.ac.kr), 강준구 (gjk6626@gmail.com), 이재민 (leejaymin@etri.re.kr), 금나연 (nayounkeum@gmail.com), 김영범 (eddy979793@gmail.com)
