@@ -1,5 +1,5 @@
 ## Neural Network Acceleration Study Season #3
-This is a repository of the study "neural network acceleration". The goal of this study is to understand the acceleration of nerual networks on various devices. The topic of acceleration includes `CPU`, `GPU`, `NPU`, `ASIC`, `FPGA`, and `NDP`. Our materials are open to this github and youtube. This study is supported by Facebook community, "AI Robitcs Korea".
+This is a repository of the study "neural network acceleration". The goal of this study is to understand the acceleration of nerual networks on various devices. The topic of acceleration includes neural acceleration (Such as inference on `CPU`, `GPU`, `NPU`, `ASIC`, `FPGA`,`NDP`), neural accelerator, and designing lightweight neural network. Our materials are open to this github and youtube. This study is supported by Facebook community, "AI Robitcs Korea".
 
 #### CPU/GPU, NPU, and distributed computing
 - Fast acceleration of inference/training on general processor (CPU/GPU)
@@ -10,17 +10,19 @@ This is a repository of the study "neural network acceleration". The goal of thi
 - Low-power inference acceleration using RTL/HLS design
 - High computing performance interfence/training accelerator
 
-#### Near-data Processing (NDP)
-- Data processing unit for neural network acceleration (w/o HBM based accelerator)
+#### Lightweight neural network
+- Quantization (Fixed-point, LUT, log, etc)
+- Pruning (Fine/Course-grain, Channel-wise, etc)
+
 
 ## Paper List (16)
-### CPU/GPU/NPU based Acceleration (?)
+### CPU/GPU/NPU/DSP based Acceleration (?)
 
 ### Dedicated neural network accelerator (?)
 	1. Integrating NVIDIA Deep Learning Accelerator (NVDLA) with RISC-V SoC on FireSim, EMC2, 2019
 
-### NDP (?)
 
+### Designing lightweight neural network (?)
 	
 ## Presentation with Video
 ### Week1: Introduction (September 09, 2020)
@@ -36,4 +38,4 @@ This is a repository of the study "neural network acceleration". The goal of thi
 ## Contributors
 **Main Contributor**: Constant Park (sonicstage12@naver.com)
 
-**Presenters**: Constant Park (sonicstage12@naver.com)
+**Presenters**: Constant Park (sonicstage12@naver.com), Jeongah-Shin (jeongah.arie@gmail.com), 김용우 (yongwoo.kim@smu.ac.kr), 강준구 (gjk6626@gmail.com), 이재민 (leejaymin@etri.re.kr), 금나현 (nayounkeum@gmail.com), 김영범 (eddy979793@gmail.com)
