@@ -17,23 +17,36 @@ This is a repository of the study "neural network acceleration". The goal of thi
 
 ## Paper List (16)
 ### CPU/GPU/NPU/DSP based Acceleration (?)
-
+	1. Efficient Execution of Quantized Deep Learning Models: A Compiler Approach, arxiv, 2020
+	2. AMC: AutoML for Model Compression and Acceleration on Mobile Devices, ECCV, 2018
+	3. Integer Quantization for Deep Learning Inference: Principles and Empirical Evaluation, arxiv, 2020
+	
 ### Dedicated neural network accelerator (?)
 	1. Integrating NVIDIA Deep Learning Accelerator (NVDLA) with RISC-V SoC on FireSim, EMC2, 2019
+	2. ACG-Engine: An Inference Acelerator for Content Generative Neural Networks, ICCAD, 2020
+	3. Timeloop: A Systematic Approach to DNN Accelerator Evaluation, ISPASS, 2019
 
 
 ### Designing lightweight neural network (?)
+	1. THE LOTTERY TICKET HYPOTHESIS: FINDING SPARSE, TRAINABLE NEURAL NETWORKS, ICLR, 2019
+	2. Quantizing deep convolutional networks for efficient inference: A whitepaper, GOOGLE, 2018
+	3. Learned Step Size Quantization, ICLR, 2020
+	4. HAQ: Hardware-Aware Automated Quantization with Mixed Precision, CVPR, 2019
+	5. AUTOQ: AUTOMATED KERNEL-WISE NEURAL NETWORK QUANTIZATION, ICLR, 2020
+	
 	
 ## Presentation with Video
-### Week1: Introduction (September 09, 2020)
-**Integrating NVIDIA Deep Learning Accelerator (NVDLA) with RISC-V SoC on FireSim**
-
-	Presenter: 
+### Week1 (September 09, 2020)
+** THE LOTTERY TICKET HYPOTHESIS: FINDING SPARSE, TRAINABLE NEURAL NETWORKS**
+	Presenter: Jeongah-Shin (jeongah.arie@gmail.com)
 	PPT: 
 	Video: 
 
+**Integrating NVIDIA Deep Learning Accelerator (NVDLA) with RISC-V SoC on FireSim**
 
-
+	Presenter: Constant Park (sonicstage12@naver.com)
+	PPT: 
+	Video: 
 
 ## Contributors
 **Main Contributor**: Constant Park (sonicstage12@naver.com)
