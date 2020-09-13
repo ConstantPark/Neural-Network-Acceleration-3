@@ -16,18 +16,18 @@ This is a repository of the study "neural network acceleration". The goal of thi
 
 
 ## Paper List (16)
-### CPU/GPU/NPU/DSP based Acceleration (?)
+### CPU/GPU/NPU/DSP based Acceleration (3)
 	1. Efficient Execution of Quantized Deep Learning Models: A Compiler Approach, arxiv, 2020
 	2. AMC: AutoML for Model Compression and Acceleration on Mobile Devices, ECCV, 2018
 	3. Integer Quantization for Deep Learning Inference: Principles and Empirical Evaluation, arxiv, 2020
 	
-### Dedicated neural network accelerator (?)
+### Dedicated neural network accelerator (3)
 	1. Integrating NVIDIA Deep Learning Accelerator (NVDLA) with RISC-V SoC on FireSim, EMC2, 2019
 	2. ACG-Engine: An Inference Acelerator for Content Generative Neural Networks, ICCAD, 2020
 	3. Timeloop: A Systematic Approach to DNN Accelerator Evaluation, ISPASS, 2019
 
 
-### Designing lightweight neural network (?)
+### Designing lightweight neural network (5)
 	1. THE LOTTERY TICKET HYPOTHESIS: FINDING SPARSE, TRAINABLE NEURAL NETWORKS, ICLR, 2019
 	2. Quantizing deep convolutional networks for efficient inference: A whitepaper, GOOGLE, 2018
 	3. Learned Step Size Quantization, ICLR, 2020
