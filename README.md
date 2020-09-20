@@ -37,7 +37,7 @@ This is a repository of the study "neural network acceleration". The goal of thi
 	
 ## Presentation with Video
 ### Week1 (September 09, 2020)
-** THE LOTTERY TICKET HYPOTHESIS: FINDING SPARSE, TRAINABLE NEURAL NETWORKS**
+**THE LOTTERY TICKET HYPOTHESIS: FINDING SPARSE, TRAINABLE NEURAL NETWORKS**
 	Presenter: Jeongah-Shin (jeongah.arie@gmail.com)
 	PPT: 
 	Video: 
