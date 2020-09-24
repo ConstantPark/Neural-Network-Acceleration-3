@@ -37,17 +37,12 @@ This is a repository of the study "neural network acceleration". The goal of thi
 	
 ## Presentation with Video
 ### Week1 (September 23, 2020)
-**THE LOTTERY TICKET HYPOTHESIS: FINDING SPARSE, TRAINABLE NEURAL NETWORKS**
-
-	Presenter: Jeongah-Shin (jeongah.arie@gmail.com)
-	PPT: 
-	Video: 
 
 **Integrating NVIDIA Deep Learning Accelerator (NVDLA) with RISC-V SoC on FireSim**
 
 	Presenter: Constant Park (sonicstage12@naver.com)
-	PPT: 
-	Video: 
+	PPT: https://github.com/ConstantPark/Neural-Network-Acceleration-3/blob/master/Integrating%20NVIDIA%20Deep%20Learning%20Accelerator%20(NVDLA)%20with%20RISC-V%20SoC%20on%20FireSim.pdf
+	Video: https://youtu.be/pYhvLbd1SKA
 
 ## Contributors
 **Main Contributor**: Constant Park (sonicstage12@naver.com)
