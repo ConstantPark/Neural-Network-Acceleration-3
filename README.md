@@ -44,6 +44,15 @@ This is a repository of the study "neural network acceleration". The goal of thi
 	PPT: https://github.com/ConstantPark/Neural-Network-Acceleration-3/blob/master/Integrating%20NVIDIA%20Deep%20Learning%20Accelerator%20(NVDLA)%20with%20RISC-V%20SoC%20on%20FireSim.pdf
 	Video: https://youtu.be/pYhvLbd1SKA
 
+### Week2 (October 7, 2020)
+
+**Integer Quantization for Deep Learning Inference: Principles and Empirical Evaluation**
+
+	Presenter: Jemin Lee (leejaymin@etri.re.kr)
+	PPT: https://www.slideshare.net/leejaymin/integer-quantization-for-deep-learning-inference-principles-and-empirical-evaluation
+	Video: https://youtu.be/mDefFU7rbV0
+
+
 ## Contributors
 **Main Contributor**: Constant Park (sonicstage12@naver.com)
 
