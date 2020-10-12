@@ -52,7 +52,20 @@ This is a repository of the study "neural network acceleration". The goal of thi
 	PPT: https://www.slideshare.net/leejaymin/integer-quantization-for-deep-learning-inference-principles-and-empirical-evaluation
 	Video: https://youtu.be/mDefFU7rbV0
 
+### Week3 (October 21, 2020)
 
+**A Survey of Accelerator Architectures for Deep Neural Networks(18.12)**
+
+	Presenter: 김영범
+	PPT: 
+	Video: 
+	
+**ACG-Engine: An Inference Acelerator for Content Generative Neural Networks**
+
+	Presenter: 금나현
+	PPT: 
+	Video: 
+	
 ## Contributors
 **Main Contributor**: Constant Park (sonicstage12@naver.com)
 
